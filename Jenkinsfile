@@ -1,4 +1,5 @@
-@Library('roboshop-shared-library')_
+@Library('roboshop-shared-library') _
 
-env.COMPONENT="PAYMENT"
+env.COMPONENT="payment"
+env.APP_TYPE="python"
 python()
